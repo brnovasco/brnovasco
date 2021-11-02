@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brnovasco
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analysis, Simulations...
 
 <!---
