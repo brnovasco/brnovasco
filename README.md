@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @brnovasco
-- 👀 I’m interested in Physics
-- 💞️ I’m looking to collaborate on Data Analysis, Simulations...
 
 <!---
 brnovasco/brnovasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
